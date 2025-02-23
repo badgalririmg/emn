@@ -1,1 +1,4 @@
-﻿Flask
+Flask
+gunicorn
+sqlite3
+qrcode[pil]
